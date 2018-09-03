@@ -1,7 +1,5 @@
 Groovy script - Day 1
 
-Day3-Practice-2
-
 Checkout the code:
 
     node {
